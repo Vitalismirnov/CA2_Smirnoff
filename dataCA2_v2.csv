@@ -1,392 +1,392 @@
-﻿Year,Code,Crop,CropArea,Yield_ha,Yield
-1985,1,"Total wheat, oats and barley",386.2,5.1,1986
-1985,11,Total wheat,77.7,6.4,495
-1985,111,Winter wheat,60.3,6.5,395
-1985,112,Spring wheat,17.4,5.8,100
-1985,12,Total oats,24.9,5.1,126
-1985,121,Winter oats,9.1,6.2,56
-1985,122,Spring oats,15.8,4.4,70
-1985,13,Total barley,283.6,4.8,1365
-1985,131,Winter barley,35.5,5.2,185
-1985,132,Spring barley,248.1,4.8,1179
-1985,2,Beans and peas,2.3,0,0
-1985,3,Oilseed rape,0,0,0
-1985,4,Potatoes,32.1,20.8,668
-1985,5,Turnips,8.7,53.5,466
-1985,61,Sugar beet,33.9,38.7,1309
-1985,62,Fodder beet,5.7,56.8,324
-1985,7,Kale and field cabbage,3.7,44.2,162
-1986,1,"Total wheat, oats and barley",362.6,5.2,1880
-1986,11,Total wheat,74.6,5.5,412
-1986,111,Winter wheat,57,5.6,317
-1986,112,Spring wheat,17.6,5.4,95
-1986,12,Total oats,23,5.4,124
-1986,121,Winter oats,8.8,6.4,56
-1986,122,Spring oats,14.2,4.8,68
-1986,13,Total barley,265,5.1,1344
-1986,131,Winter barley,33.9,5.2,177
-1986,132,Spring barley,231.1,5,1167
-1986,2,Beans and peas,2.4,0,0
-1986,3,Oilseed rape,0,0,0
-1986,4,Potatoes,29.5,20.3,601
-1986,5,Turnips,8.9,51.6,462
-1986,61,Sugar beet,37,34.4,1274
-1986,62,Fodder beet,6.4,51.1,325
-1986,7,Kale and field cabbage,3.5,43.1,150
-1987,1,"Total wheat, oats and barley",334.3,6,2005
-1987,11,Total wheat,56.1,6.9,387
-1987,111,Winter wheat,38.3,7.3,278
-1987,112,Spring wheat,17.8,6.2,110
-1987,12,Total oats,22.9,5.8,133
-1987,121,Winter oats,9,7,63
-1987,122,Spring oats,13.9,5,70
-1987,13,Total barley,255.3,5.8,1485
-1987,131,Winter barley,33.6,6.3,211
-1987,132,Spring barley,221.7,5.7,1274
-1987,2,Beans and peas,2.3,0,0
-1987,3,Oilseed rape,0,0,0
-1987,4,Potatoes,29.2,23,671
-1987,5,Turnips,8.9,56.8,505
-1987,61,Sugar beet,37.1,43.7,1623
-1987,62,Fodder beet,6.4,64.8,414
-1987,7,Kale and field cabbage,2.9,52.1,153
-1988,1,"Total wheat, oats and barley",323.6,6.4,2077
-1988,11,Total wheat,58.6,7.8,455
-1988,111,Winter wheat,37.2,8.2,305
-1988,112,Spring wheat,21.4,7,150
-1988,12,Total oats,22.6,6.5,147
-1988,121,Winter oats,9.6,7.7,74
-1988,122,Spring oats,13,5.6,73
-1988,13,Total barley,242.5,6.1,1475
-1988,131,Winter barley,28,6.4,179
-1988,132,Spring barley,214.5,6,1297
-1988,2,Beans and peas,2.6,0,0
-1988,3,Oilseed rape,4.7,0,0
-1988,4,Potatoes,27.1,24.8,671
-1988,5,Turnips,8.1,51.9,422
-1988,61,Sugar beet,33.3,40.1,1334
-1988,62,Fodder beet,6.9,63.4,438
-1988,7,Kale and field cabbage,2.5,39,98
-1989,1,"Total wheat, oats and barley",319.6,6,1918
-1989,11,Total wheat,60.7,7.6,459
-1989,111,Winter wheat,43,8.1,350
-1989,112,Spring wheat,17.7,6.2,109
-1989,12,Total oats,22.4,6,134
-1989,121,Winter oats,10.1,7.4,74
-1989,122,Spring oats,12.3,4.9,60
-1989,13,Total barley,236.5,5.6,1325
-1989,131,Winter barley,24.9,6.6,163
-1989,132,Spring barley,211.6,5.5,1162
-1989,2,Beans and peas,2.7,0,0
-1989,3,Oilseed rape,4.5,0,0
-1989,4,Potatoes,24.7,22.4,554
-1989,5,Turnips,8.1,57.6,465
-1989,61,Sugar beet,32.1,45.2,1451
-1989,62,Fodder beet,7.1,54.9,391
-1989,7,Kale and field cabbage,2.4,39.5,94
-1990,1,"Total wheat, oats and barley",298.5,6.6,1964
-1990,11,Total wheat,70.1,8.5,598
-1990,111,Winter wheat,56.5,9,506
-1990,112,Spring wheat,13.6,6.7,92
-1990,12,Total oats,21.8,6.6,144
-1990,121,Winter oats,10.6,7.6,81
-1990,122,Spring oats,11.2,5.6,63
-1990,13,Total barley,206.6,5.9,1223
-1990,131,Winter barley,28.7,7.7,221
-1990,132,Spring barley,178,5.6,1002
-1990,2,Beans and peas,3,4.9,15
-1990,3,Oilseed rape,5.4,3.6,20
-1990,4,Potatoes,24.3,24.9,605
-1990,5,Turnips,7.1,54.8,387
-1990,61,Sugar beet,32.3,45.8,1480
-1990,62,Fodder beet,8.5,65,553
-1990,7,Kale and field cabbage,2,49.5,99
-1991,1,"Total wheat, oats and barley",299.6,6.6,1965
-1991,11,Total wheat,85.7,7.9,673.6
-1991,111,Winter wheat,66.9,8.2,548
-1991,112,Spring wheat,18.8,6.7,125
-1991,12,Total oats,20.6,7,143
-1991,121,Winter oats,11.4,7.8,89
-1991,122,Spring oats,9.2,5.9,54
-1991,13,Total barley,193.4,5.9,1148
-1991,131,Winter barley,33.3,7.9,262
-1991,132,Spring barley,160.1,5.5,886
-1991,2,Beans and peas,2.8,4.7,13
-1991,3,Oilseed rape,6.2,3.7,23
-1991,4,Potatoes,20.5,27.9,571
-1991,5,Turnips,6,52.5,313
-1991,61,Sugar beet,33.3,42.3,1409
-1991,62,Fodder beet,10.1,68.9,695
-1991,7,Kale and field cabbage,1.4,42.2,60
-1992,1,"Total wheat, oats and barley",295.1,6.8,2018
-1992,11,Total wheat,90.6,7.9,714
-1992,111,Winter wheat,73.3,8,587
-1992,112,Spring wheat,17.3,7.4,127
-1992,12,Total oats,20.1,6.8,136
-1992,121,Winter oats,11.6,7.4,86
-1992,122,Spring oats,8.4,6,50
-1992,13,Total barley,184.4,6.3,1168
-1992,131,Winter barley,40.3,7.6,306
-1992,132,Spring barley,144,6,862
-1992,2,Beans and peas,2.7,5,13
-1992,3,Oilseed rape,5.9,3.1,18
-1992,4,Potatoes,22.1,28.9,638
-1992,5,Turnips,5.5,55.5,306
-1992,61,Sugar beet,31.3,44.6,1397
-1992,62,Fodder beet,11,70.6,780
-1992,7,Kale and field cabbage,1.9,48.8,91
-1993,1,"Total wheat, oats and barley",280.3,5.8,1626
-1993,11,Total wheat,79.2,6.8,539
-1993,111,Winter wheat,57.2,6.7,383
-1993,112,Spring wheat,22,7.1,155
-1993,12,Total oats,20.2,6.4,129
-1993,121,Winter oats,11.4,7,80
-1993,122,Spring oats,8.8,5.5,49
-1993,13,Total barley,180.8,5.3,958
-1993,131,Winter barley,39.4,6.1,242
-1993,132,Spring barley,141.4,5.1,716
-1993,2,Beans and peas,6.1,4.3,26
-1993,3,Oilseed rape,3.4,2.7,9
-1993,4,Potatoes,21.6,26.3,569
-1993,5,Turnips,5.2,52.3,271
-1993,61,Sugar beet,32.2,34.7,1117
-1993,62,Fodder beet,10.9,54.9,600
-1993,7,Kale and field cabbage,1.8,43,78
-1994,1,"Total wheat, oats and barley",264.7,6.1,1609
-1994,11,Total wheat,74.1,7.7,572
-1994,111,Winter wheat,56.2,8.1,458
-1994,112,Spring wheat,17.9,6.4,114
-1994,12,Total oats,20.9,6.1,128
-1994,121,Winter oats,13.3,6.9,92
-1994,122,Spring oats,7.6,4.7,36
-1994,13,Total barley,169.7,5.4,910
-1994,131,Winter barley,31.7,6.8,216
-1994,132,Spring barley,138,5,693
-1994,2,Beans and peas,5.6,4.5,25
-1994,3,Oilseed rape,6.4,2.6,17
-1994,4,Potatoes,21.4,30.1,642
-1994,5,Turnips,5.6,53.1,296
-1994,61,Sugar beet,35.4,39.3,1390
-1994,62,Fodder beet,9.8,59,579
-1994,7,Kale and field cabbage,1.8,44.5,81
-1995,1,"Total wheat, oats and barley",269.2,6.7,1796
-1995,11,Total wheat,70.7,8.2,583
-1995,111,Winter wheat,51.8,8.7,451
-1995,112,Spring wheat,18.9,7,132
-1995,12,Total oats,19.9,6.5,129
-1995,121,Winter oats,10.5,7.2,75
-1995,122,Spring oats,9.4,5.7,54
-1995,13,Total barley,178.6,6.1,1084
-1995,131,Winter barley,37.1,6.8,251
-1995,132,Spring barley,141.4,5.9,833
-1995,2,Beans and peas,4.8,4,19
-1995,3,Oilseed rape,4.1,3.3,13
-1995,4,Potatoes,22.4,27.6,618
-1995,5,Turnips,5.3,54.1,289
-1995,61,Sugar beet,35.1,44.1,1547
-1995,62,Fodder beet,8.9,66.8,596
-1995,7,Kale and field cabbage,1.5,39,57
-1996,1,"Total wheat, oats and barley",288,7.4,2142
-1996,11,Total wheat,85.7,9,771.2
-1996,111,Winter wheat,67.2,9.4,632.5
-1996,112,Spring wheat,18.5,7.5,138.7
-1996,12,Total oats,20.9,7,146.1
-1996,121,Winter oats,12.5,7.6,95.1
-1996,122,Spring oats,8.4,6.1,51.1
-1996,13,Total barley,181.4,6.8,1224.6
-1996,131,Winter barley,40.9,8,327.9
-1996,132,Spring barley,140.5,6.4,896.8
-1996,2,Beans and peas,4.8,4.5,21.5
-1996,3,Oilseed rape,3.5,2.9,10.1
-1996,4,Potatoes,24.3,30.2,733.3
-1996,5,Turnips,5.4,57.8,309.8
-1996,61,Sugar beet,32.3,45.7,1475.6
-1996,62,Fodder beet,9.9,73.7,726.3
-1996,7,Kale and field cabbage,1.6,40.8,63.7
-1997,1,"Total wheat, oats and barley",304.3,6.4,1943.4
-1997,11,Total wheat,93.9,7.7,724.5
-1997,111,Winter wheat,70.2,8,563.3
-1997,112,Spring wheat,23.7,6.8,161.2
-1997,12,Total oats,20.6,6.4,131.6
-1997,121,Winter oats,11.2,7.4,83.4
-1997,122,Spring oats,9.4,5.2,48.2
-1997,13,Total barley,189.8,5.7,1087.2
-1997,131,Winter barley,41.1,7,287.4
-1997,132,Spring barley,148.6,5.4,799.8
-1997,2,Beans and peas,4.8,4,19.4
-1997,3,Oilseed rape,4.4,2.7,12
-1997,4,Potatoes,18.2,25.9,471.9
-1997,5,Turnips,5.2,55,284.7
-1997,61,Sugar beet,32.3,51,1648.2
-1997,62,Fodder beet,9.1,66.2,603.5
-1997,7,Kale and field cabbage,,,
-1998,1,"Total wheat, oats and barley",294,6.3,1865
-1998,11,Total wheat,83.8,8,673
-1998,111,Winter wheat,65.5,8.1,531.9
-1998,112,Spring wheat,18.4,7.7,141.1
-1998,12,Total oats,19.4,6.1,119.1
-1998,121,Winter oats,12.1,6.6,80.2
-1998,122,Spring oats,7.3,5.3,38.9
-1998,13,Total barley,190.7,5.6,1072.9
-1998,131,Winter barley,39,6.4,249.9
-1998,132,Spring barley,151.7,5.4,823.1
-1998,2,Beans and peas,6.5,5,32.4
-1998,3,Oilseed rape,5.6,2.9,16.6
-1998,4,Potatoes,18.5,26.1,482.1
-1998,5,Turnips,4.6,45.3,208.1
-1998,61,Sugar beet,32.9,49.8,1640
-1998,62,Fodder beet,7.3,64.8,475.2
-1998,7,Kale and field cabbage,,,
-1999,1,"Total wheat, oats and barley",280.3,7.2,2011.3
-1999,11,Total wheat,68.1,8.8,597.4
-1999,111,Winter wheat,40.6,9.4,382.1
-1999,112,Spring wheat,27.4,7.8,215.3
-1999,12,Total oats,20.2,6.7,136.4
-1999,121,Winter oats,7.7,7.8,60.2
-1999,122,Spring oats,12.5,6.1,76.2
-1999,13,Total barley,192,6.7,1277.5
-1999,131,Winter barley,26.2,7.6,200.5
-1999,132,Spring barley,165.8,6.5,1077
-1999,2,Beans and peas,4.1,4.5,18.4
-1999,3,Oilseed rape,2.6,1.9,5.1
-1999,4,Potatoes,17.5,32,558.6
-1999,5,Turnips,4.2,42,176.6
-1999,61,Sugar beet,33.8,50.7,1712.1
-1999,62,Fodder beet,7,70.4,494.8
-1999,7,Kale and field cabbage,,,
-2000,1,"Total wheat, oats and barley",277.1,7.8,2173.9
-2000,11,Total wheat,78,9.5,737.4
-2000,111,Winter wheat,58.8,9.9,582.3
-2000,112,Spring wheat,19.1,8.1,155.1
-2000,12,Total oats,16.8,7.5,126.6
-2000,121,Winter oats,9.6,8.3,79.8
-2000,122,Spring oats,7.2,6.5,46.8
-2000,13,Total barley,182.3,7.2,1309.9
-2000,131,Winter barley,24.1,8.4,202.6
-2000,132,Spring barley,158.2,7,1107.3
-2000,2,Beans and peas,1.5,5.1,7.7
-2000,3,Oilseed rape,2.7,3.2,8.6
-2000,4,Potatoes,13.5,33.6,454.8
-2000,5,Turnips,2.1,60,124
-2000,61,Sugar beet,32.2,56.8,1829
-2000,62,Fodder beet,5.1,70.3,361.3
-2000,7,Kale and field cabbage,,,
-2001,1,"Total wheat, oats and barley",283.7,7.6,2165.1
-2001,11,Total wheat,84.9,9.1,769.2
-2001,111,Winter wheat,49.9,9.8,489.2
-2001,112,Spring wheat,35,8,280
-2001,12,Total oats,16.8,7.1,118.7
-2001,121,Winter oats,5.7,8,45.2
-2001,122,Spring oats,11.1,6.6,73.4
-2001,13,Total barley,182,7,1277.2
-2001,131,Winter barley,19.6,8,156.7
-2001,132,Spring barley,162.4,6.9,1120.5
-2001,2,Beans and peas,1.9,4.7,8.9
-2001,3,Oilseed rape,2.4,3,7.3
-2001,4,Potatoes,14.3,33.5,477.6
-2001,5,Turnips,1.8,54.4,99.9
-2001,61,Sugar beet,31.1,48.2,1498
-2001,62,Fodder beet,4.3,65.5,278.7
-2001,7,Kale and field cabbage,,,
-2002,1,"Total wheat, oats and barley",297.5,6.6,1963.6
-2002,11,Total wheat,102.7,8.4,867.2
-2002,111,Winter wheat,80,8.8,703.6
-2002,112,Spring wheat,22.7,7.2,163.6
-2002,12,Total oats,18.8,7.1,133.6
-2002,121,Winter oats,11.8,7.8,92.1
-2002,122,Spring oats,7,5.9,41.5
-2002,13,Total barley,176,5.5,962.8
-2002,131,Winter barley,23.2,6.6,152.8
-2002,132,Spring barley,152.8,5.3,810
-2002,2,Beans and peas,1.7,4.5,7.5
-2002,3,Oilseed rape,2.2,3.1,6.7
-2002,4,Potatoes,15.4,33.7,518.6
-2002,5,Turnips,1.6,54.4,89.7
-2002,61,Sugar beet,31.3,41.6,1300.7
-2002,62,Fodder beet,4.1,60.9,249.5
-2002,7,Kale and field cabbage,,,
-2003,1,"Total wheat, oats and barley",299.9,7.2,2146.9
-2003,11,Total wheat,95.7,8.3,794.1
-2003,111,Winter wheat,60.6,8.7,526.9
-2003,112,Spring wheat,35.2,7.6,267.2
-2003,12,Total oats,21,7.4,155.1
-2003,121,Winter oats,9.4,8.1,75.9
-2003,122,Spring oats,11.6,6.8,79.2
-2003,13,Total barley,183.1,6.5,1197.7
-2003,131,Winter barley,19.8,7.7,152.8
-2003,132,Spring barley,163.3,6.4,1044.9
-2003,2,Beans and peas,2.9,4.8,13.7
-2003,3,Oilseed rape,2.3,3.1,7.2
-2003,4,Potatoes,14.2,34.5,488.2
-2003,5,Turnips,,,
-2003,61,Sugar beet,31.5,47.7,1505.2
-2003,62,Fodder beet,,,
-2003,7,Kale and field cabbage,,,
-2004,1,"Total wheat, oats and barley",306.4,8.2,2500.9
-2004,11,Total wheat,102.7,9.9,1019.2
-2004,111,Winter wheat,71.5,10.5,750.6
-2004,112,Spring wheat,31.2,8.6,268.6
-2004,12,Total oats,20,7.8,155.2
-2004,121,Winter oats,12.9,8.3,107.3
-2004,122,Spring oats,7,6.8,47.9
-2004,13,Total barley,183.7,7.3,1326.6
-2004,131,Winter barley,20.5,8.2,168.2
-2004,132,Spring barley,163.2,7.1,1158.5
-2004,2,Beans and peas,2.7,5.4,14.4
-2004,3,Oilseed rape,2.2,3,6.7
-2004,4,Potatoes,13.3,41.4,552.2
-2004,5,Turnips,,,
-2004,61,Sugar beet,31.1,59.8,1861.4
-2004,62,Fodder beet,,,
-2004,7,Kale and field cabbage,,,
-2005,1,"Total wheat, oats and barley",276.5,7,1938
-2005,11,Total wheat,95.2,8.4,802.7
-2005,111,Winter wheat,65,8.8,572
-2005,112,Spring wheat,30.2,7.6,229.7
-2005,12,Total oats,16.8,6.7,112.8
-2005,121,Winter oats,8.6,7.3,63.1
-2005,122,Spring oats,8.2,6.1,49.8
-2005,13,Total barley,164.4,6.2,1024.4
-2005,131,Winter barley,17,7.4,126
-2005,132,Spring barley,147.4,6.1,899.2
-2005,2,Beans and peas,3.7,5.1,18.9
-2005,3,Oilseed rape,3.7,3.8,14.2
-2005,4,Potatoes,11.8,34.7,409.2
-2005,5,Turnips,,,
-2005,61,Sugar beet,31,44.5,1380
-2005,62,Fodder beet,,,
-2005,7,Kale and field cabbage,,,
-2006,1,"Total wheat, oats and barley",274.9,7.6,2083.1
-2006,11,Total wheat,87.5,9.2,801
-2006,111,Winter wheat,59.2,9.8,580
-2006,112,Spring wheat,28.3,7.8,221
-2006,12,Total oats,20.4,7,145.2
-2006,121,Winter oats,9.3,8,74.2
-2006,122,Spring oats,11.1,6.4,71
-2006,13,Total barley,167,6.8,1136.9
-2006,131,Winter barley,15.1,7.9,119.3
-2006,132,Spring barley,151.9,6.7,1017.6
-2006,2,Beans and peas,4.3,4.7,20
-2006,3,Oilseed rape,5.1,3.5,17.9
-2006,4,Potatoes,11.5,33.4,382.9
-2006,5,Turnips,,,
-2006,61,Sugar beet,,,
-2006,62,Fodder beet,,,
-2006,7,Kale and field cabbage,,,
-2007,1,"Total wheat, oats and barley",273.1,7.3,1997
-2007,11,Total wheat,84.3,8.5,713.4
-2007,111,Winter wheat,64.7,8.7,562.5
-2007,112,Spring wheat,19.6,7.7,150.9
-2007,12,Total oats,21.3,7.5,159.1
-2007,121,Winter oats,13.5,8.1,109.3
-2007,122,Spring oats,7.8,6.4,49.8
-2007,13,Total barley,167.5,6.7,1124.5
-2007,131,Winter barley,18.7,7.6,142.4
-2007,132,Spring barley,148.8,6.6,982.2
-2007,2,Beans and peas,2.9,4.4,12.8
-2007,3,Oilseed rape,8.2,3.9,31.9
-2007,4,Potatoes,11.7,34,399
-2007,5,Turnips,,,
-2007,61,Sugar beet,,,
-2007,62,Fodder beet,,,
-2007,7,Kale and field cabbage,,,
+﻿Year,Code,Crop,CropArea,Yield_ha,Yield,,
+1985,1,"Total wheat, oats and barley",386.2,5.1,1986,,386.2
+1985,11,Total wheat,77.7,6.4,495,,
+1985,111,Winter wheat,60.3,6.5,395,,
+1985,112,Spring wheat,17.4,5.8,100,,
+1985,12,Total oats,24.9,5.1,126,,
+1985,121,Winter oats,9.1,6.2,56,,
+1985,122,Spring oats,15.8,4.4,70,,
+1985,13,Total barley,283.6,4.8,1365,,
+1985,131,Winter barley,35.5,5.2,185,,
+1985,132,Spring barley,248.1,4.8,1179,,
+1985,2,Beans and peas,2.3,0,0,,
+1985,3,Oilseed rape,0,0,0,,
+1985,4,Potatoes,32.1,20.8,668,,
+1985,5,Turnips,8.7,53.5,466,,
+1985,61,Sugar beet,33.9,38.7,1309,,
+1985,62,Fodder beet,5.7,56.8,324,,
+1985,7,Kale and field cabbage,3.7,44.2,162,,
+1986,1,"Total wheat, oats and barley",362.6,5.2,1880,,
+1986,11,Total wheat,74.6,5.5,412,,
+1986,111,Winter wheat,57,5.6,317,,
+1986,112,Spring wheat,17.6,5.4,95,,
+1986,12,Total oats,23,5.4,124,,
+1986,121,Winter oats,8.8,6.4,56,,
+1986,122,Spring oats,14.2,4.8,68,,
+1986,13,Total barley,265,5.1,1344,,
+1986,131,Winter barley,33.9,5.2,177,,
+1986,132,Spring barley,231.1,5,1167,,
+1986,2,Beans and peas,2.4,0,0,,
+1986,3,Oilseed rape,0,0,0,,
+1986,4,Potatoes,29.5,20.3,601,,
+1986,5,Turnips,8.9,51.6,462,,
+1986,61,Sugar beet,37,34.4,1274,,
+1986,62,Fodder beet,6.4,51.1,325,,
+1986,7,Kale and field cabbage,3.5,43.1,150,,
+1987,1,"Total wheat, oats and barley",334.3,6,2005,,
+1987,11,Total wheat,56.1,6.9,387,,
+1987,111,Winter wheat,38.3,7.3,278,,
+1987,112,Spring wheat,17.8,6.2,110,,
+1987,12,Total oats,22.9,5.8,133,,
+1987,121,Winter oats,9,7,63,,
+1987,122,Spring oats,13.9,5,70,,
+1987,13,Total barley,255.3,5.8,1485,,
+1987,131,Winter barley,33.6,6.3,211,,
+1987,132,Spring barley,221.7,5.7,1274,,
+1987,2,Beans and peas,2.3,0,0,,
+1987,3,Oilseed rape,0,0,0,,
+1987,4,Potatoes,29.2,23,671,,
+1987,5,Turnips,8.9,56.8,505,,
+1987,61,Sugar beet,37.1,43.7,1623,,
+1987,62,Fodder beet,6.4,64.8,414,,
+1987,7,Kale and field cabbage,2.9,52.1,153,,
+1988,1,"Total wheat, oats and barley",323.6,6.4,2077,,
+1988,11,Total wheat,58.6,7.8,455,,
+1988,111,Winter wheat,37.2,8.2,305,,
+1988,112,Spring wheat,21.4,7,150,,
+1988,12,Total oats,22.6,6.5,147,,
+1988,121,Winter oats,9.6,7.7,74,,
+1988,122,Spring oats,13,5.6,73,,
+1988,13,Total barley,242.5,6.1,1475,,
+1988,131,Winter barley,28,6.4,179,,
+1988,132,Spring barley,214.5,6,1297,,
+1988,2,Beans and peas,2.6,0,0,,
+1988,3,Oilseed rape,4.7,0,0,,
+1988,4,Potatoes,27.1,24.8,671,,
+1988,5,Turnips,8.1,51.9,422,,
+1988,61,Sugar beet,33.3,40.1,1334,,
+1988,62,Fodder beet,6.9,63.4,438,,
+1988,7,Kale and field cabbage,2.5,39,98,,
+1989,1,"Total wheat, oats and barley",319.6,6,1918,,
+1989,11,Total wheat,60.7,7.6,459,,
+1989,111,Winter wheat,43,8.1,350,,
+1989,112,Spring wheat,17.7,6.2,109,,
+1989,12,Total oats,22.4,6,134,,
+1989,121,Winter oats,10.1,7.4,74,,
+1989,122,Spring oats,12.3,4.9,60,,
+1989,13,Total barley,236.5,5.6,1325,,
+1989,131,Winter barley,24.9,6.6,163,,
+1989,132,Spring barley,211.6,5.5,1162,,
+1989,2,Beans and peas,2.7,0,0,,
+1989,3,Oilseed rape,4.5,0,0,,
+1989,4,Potatoes,24.7,22.4,554,,
+1989,5,Turnips,8.1,57.6,465,,
+1989,61,Sugar beet,32.1,45.2,1451,,
+1989,62,Fodder beet,7.1,54.9,391,,
+1989,7,Kale and field cabbage,2.4,39.5,94,,
+1990,1,"Total wheat, oats and barley",298.5,6.6,1964,,
+1990,11,Total wheat,70.1,8.5,598,,
+1990,111,Winter wheat,56.5,9,506,,
+1990,112,Spring wheat,13.6,6.7,92,,
+1990,12,Total oats,21.8,6.6,144,,
+1990,121,Winter oats,10.6,7.6,81,,
+1990,122,Spring oats,11.2,5.6,63,,
+1990,13,Total barley,206.6,5.9,1223,,
+1990,131,Winter barley,28.7,7.7,221,,
+1990,132,Spring barley,178,5.6,1002,,
+1990,2,Beans and peas,3,4.9,15,,
+1990,3,Oilseed rape,5.4,3.6,20,,
+1990,4,Potatoes,24.3,24.9,605,,
+1990,5,Turnips,7.1,54.8,387,,
+1990,61,Sugar beet,32.3,45.8,1480,,
+1990,62,Fodder beet,8.5,65,553,,
+1990,7,Kale and field cabbage,2,49.5,99,,
+1991,1,"Total wheat, oats and barley",299.6,6.6,1965,,
+1991,11,Total wheat,85.7,7.9,673.6,,
+1991,111,Winter wheat,66.9,8.2,548,,
+1991,112,Spring wheat,18.8,6.7,125,,
+1991,12,Total oats,20.6,7,143,,
+1991,121,Winter oats,11.4,7.8,89,,
+1991,122,Spring oats,9.2,5.9,54,,
+1991,13,Total barley,193.4,5.9,1148,,
+1991,131,Winter barley,33.3,7.9,262,,
+1991,132,Spring barley,160.1,5.5,886,,
+1991,2,Beans and peas,2.8,4.7,13,,
+1991,3,Oilseed rape,6.2,3.7,23,,
+1991,4,Potatoes,20.5,27.9,571,,
+1991,5,Turnips,6,52.5,313,,
+1991,61,Sugar beet,33.3,42.3,1409,,
+1991,62,Fodder beet,10.1,68.9,695,,
+1991,7,Kale and field cabbage,1.4,42.2,60,,
+1992,1,"Total wheat, oats and barley",295.1,6.8,2018,,
+1992,11,Total wheat,90.6,7.9,714,,
+1992,111,Winter wheat,73.3,8,587,,
+1992,112,Spring wheat,17.3,7.4,127,,
+1992,12,Total oats,20.1,6.8,136,,
+1992,121,Winter oats,11.6,7.4,86,,
+1992,122,Spring oats,8.4,6,50,,
+1992,13,Total barley,184.4,6.3,1168,,
+1992,131,Winter barley,40.3,7.6,306,,
+1992,132,Spring barley,144,6,862,,
+1992,2,Beans and peas,2.7,5,13,,
+1992,3,Oilseed rape,5.9,3.1,18,,
+1992,4,Potatoes,22.1,28.9,638,,
+1992,5,Turnips,5.5,55.5,306,,
+1992,61,Sugar beet,31.3,44.6,1397,,
+1992,62,Fodder beet,11,70.6,780,,
+1992,7,Kale and field cabbage,1.9,48.8,91,,
+1993,1,"Total wheat, oats and barley",280.3,5.8,1626,,
+1993,11,Total wheat,79.2,6.8,539,,
+1993,111,Winter wheat,57.2,6.7,383,,
+1993,112,Spring wheat,22,7.1,155,,
+1993,12,Total oats,20.2,6.4,129,,
+1993,121,Winter oats,11.4,7,80,,
+1993,122,Spring oats,8.8,5.5,49,,
+1993,13,Total barley,180.8,5.3,958,,
+1993,131,Winter barley,39.4,6.1,242,,
+1993,132,Spring barley,141.4,5.1,716,,
+1993,2,Beans and peas,6.1,4.3,26,,
+1993,3,Oilseed rape,3.4,2.7,9,,
+1993,4,Potatoes,21.6,26.3,569,,
+1993,5,Turnips,5.2,52.3,271,,
+1993,61,Sugar beet,32.2,34.7,1117,,
+1993,62,Fodder beet,10.9,54.9,600,,
+1993,7,Kale and field cabbage,1.8,43,78,,
+1994,1,"Total wheat, oats and barley",264.7,6.1,1609,,
+1994,11,Total wheat,74.1,7.7,572,,
+1994,111,Winter wheat,56.2,8.1,458,,
+1994,112,Spring wheat,17.9,6.4,114,,
+1994,12,Total oats,20.9,6.1,128,,
+1994,121,Winter oats,13.3,6.9,92,,
+1994,122,Spring oats,7.6,4.7,36,,
+1994,13,Total barley,169.7,5.4,910,,
+1994,131,Winter barley,31.7,6.8,216,,
+1994,132,Spring barley,138,5,693,,
+1994,2,Beans and peas,5.6,4.5,25,,
+1994,3,Oilseed rape,6.4,2.6,17,,
+1994,4,Potatoes,21.4,30.1,642,,
+1994,5,Turnips,5.6,53.1,296,,
+1994,61,Sugar beet,35.4,39.3,1390,,
+1994,62,Fodder beet,9.8,59,579,,
+1994,7,Kale and field cabbage,1.8,44.5,81,,
+1995,1,"Total wheat, oats and barley",269.2,6.7,1796,,
+1995,11,Total wheat,70.7,8.2,583,,
+1995,111,Winter wheat,51.8,8.7,451,,
+1995,112,Spring wheat,18.9,7,132,,
+1995,12,Total oats,19.9,6.5,129,,
+1995,121,Winter oats,10.5,7.2,75,,
+1995,122,Spring oats,9.4,5.7,54,,
+1995,13,Total barley,178.6,6.1,1084,,
+1995,131,Winter barley,37.1,6.8,251,,
+1995,132,Spring barley,141.4,5.9,833,,
+1995,2,Beans and peas,4.8,4,19,,
+1995,3,Oilseed rape,4.1,3.3,13,,
+1995,4,Potatoes,22.4,27.6,618,,
+1995,5,Turnips,5.3,54.1,289,,
+1995,61,Sugar beet,35.1,44.1,1547,,
+1995,62,Fodder beet,8.9,66.8,596,,
+1995,7,Kale and field cabbage,1.5,39,57,,
+1996,1,"Total wheat, oats and barley",288,7.4,2142,,
+1996,11,Total wheat,85.7,9,771.2,,
+1996,111,Winter wheat,67.2,9.4,632.5,,
+1996,112,Spring wheat,18.5,7.5,138.7,,
+1996,12,Total oats,20.9,7,146.1,,
+1996,121,Winter oats,12.5,7.6,95.1,,
+1996,122,Spring oats,8.4,6.1,51.1,,
+1996,13,Total barley,181.4,6.8,1224.6,,
+1996,131,Winter barley,40.9,8,327.9,,
+1996,132,Spring barley,140.5,6.4,896.8,,
+1996,2,Beans and peas,4.8,4.5,21.5,,
+1996,3,Oilseed rape,3.5,2.9,10.1,,
+1996,4,Potatoes,24.3,30.2,733.3,,
+1996,5,Turnips,5.4,57.8,309.8,,
+1996,61,Sugar beet,32.3,45.7,1475.6,,
+1996,62,Fodder beet,9.9,73.7,726.3,,
+1996,7,Kale and field cabbage,1.6,40.8,63.7,,
+1997,1,"Total wheat, oats and barley",304.3,6.4,1943.4,,
+1997,11,Total wheat,93.9,7.7,724.5,,
+1997,111,Winter wheat,70.2,8,563.3,,
+1997,112,Spring wheat,23.7,6.8,161.2,,
+1997,12,Total oats,20.6,6.4,131.6,,
+1997,121,Winter oats,11.2,7.4,83.4,,
+1997,122,Spring oats,9.4,5.2,48.2,,
+1997,13,Total barley,189.8,5.7,1087.2,,
+1997,131,Winter barley,41.1,7,287.4,,
+1997,132,Spring barley,148.6,5.4,799.8,,
+1997,2,Beans and peas,4.8,4,19.4,,
+1997,3,Oilseed rape,4.4,2.7,12,,
+1997,4,Potatoes,18.2,25.9,471.9,,
+1997,5,Turnips,5.2,55,284.7,,
+1997,61,Sugar beet,32.3,51,1648.2,,
+1997,62,Fodder beet,9.1,66.2,603.5,,
+1997,7,Kale and field cabbage,,,,,
+1998,1,"Total wheat, oats and barley",294,6.3,1865,,
+1998,11,Total wheat,83.8,8,673,,
+1998,111,Winter wheat,65.5,8.1,531.9,,
+1998,112,Spring wheat,18.4,7.7,141.1,,
+1998,12,Total oats,19.4,6.1,119.1,,
+1998,121,Winter oats,12.1,6.6,80.2,,
+1998,122,Spring oats,7.3,5.3,38.9,,
+1998,13,Total barley,190.7,5.6,1072.9,,
+1998,131,Winter barley,39,6.4,249.9,,
+1998,132,Spring barley,151.7,5.4,823.1,,
+1998,2,Beans and peas,6.5,5,32.4,,
+1998,3,Oilseed rape,5.6,2.9,16.6,,
+1998,4,Potatoes,18.5,26.1,482.1,,
+1998,5,Turnips,4.6,45.3,208.1,,
+1998,61,Sugar beet,32.9,49.8,1640,,
+1998,62,Fodder beet,7.3,64.8,475.2,,
+1998,7,Kale and field cabbage,,,,,
+1999,1,"Total wheat, oats and barley",280.3,7.2,2011.3,,
+1999,11,Total wheat,68.1,8.8,597.4,,
+1999,111,Winter wheat,40.6,9.4,382.1,,
+1999,112,Spring wheat,27.4,7.8,215.3,,
+1999,12,Total oats,20.2,6.7,136.4,,
+1999,121,Winter oats,7.7,7.8,60.2,,
+1999,122,Spring oats,12.5,6.1,76.2,,
+1999,13,Total barley,192,6.7,1277.5,,
+1999,131,Winter barley,26.2,7.6,200.5,,
+1999,132,Spring barley,165.8,6.5,1077,,
+1999,2,Beans and peas,4.1,4.5,18.4,,
+1999,3,Oilseed rape,2.6,1.9,5.1,,
+1999,4,Potatoes,17.5,32,558.6,,
+1999,5,Turnips,4.2,42,176.6,,
+1999,61,Sugar beet,33.8,50.7,1712.1,,
+1999,62,Fodder beet,7,70.4,494.8,,
+1999,7,Kale and field cabbage,,,,,
+2000,1,"Total wheat, oats and barley",277.1,7.8,2173.9,,
+2000,11,Total wheat,78,9.5,737.4,,
+2000,111,Winter wheat,58.8,9.9,582.3,,
+2000,112,Spring wheat,19.1,8.1,155.1,,
+2000,12,Total oats,16.8,7.5,126.6,,
+2000,121,Winter oats,9.6,8.3,79.8,,
+2000,122,Spring oats,7.2,6.5,46.8,,
+2000,13,Total barley,182.3,7.2,1309.9,,
+2000,131,Winter barley,24.1,8.4,202.6,,
+2000,132,Spring barley,158.2,7,1107.3,,
+2000,2,Beans and peas,1.5,5.1,7.7,,
+2000,3,Oilseed rape,2.7,3.2,8.6,,
+2000,4,Potatoes,13.5,33.6,454.8,,
+2000,5,Turnips,2.1,60,124,,
+2000,61,Sugar beet,32.2,56.8,1829,,
+2000,62,Fodder beet,5.1,70.3,361.3,,
+2000,7,Kale and field cabbage,,,,,
+2001,1,"Total wheat, oats and barley",283.7,7.6,2165.1,,
+2001,11,Total wheat,84.9,9.1,769.2,,
+2001,111,Winter wheat,49.9,9.8,489.2,,
+2001,112,Spring wheat,35,8,280,,
+2001,12,Total oats,16.8,7.1,118.7,,
+2001,121,Winter oats,5.7,8,45.2,,
+2001,122,Spring oats,11.1,6.6,73.4,,
+2001,13,Total barley,182,7,1277.2,,
+2001,131,Winter barley,19.6,8,156.7,,
+2001,132,Spring barley,162.4,6.9,1120.5,,
+2001,2,Beans and peas,1.9,4.7,8.9,,
+2001,3,Oilseed rape,2.4,3,7.3,,
+2001,4,Potatoes,14.3,33.5,477.6,,
+2001,5,Turnips,1.8,54.4,99.9,,
+2001,61,Sugar beet,31.1,48.2,1498,,
+2001,62,Fodder beet,4.3,65.5,278.7,,
+2001,7,Kale and field cabbage,,,,,
+2002,1,"Total wheat, oats and barley",297.5,6.6,1963.6,,
+2002,11,Total wheat,102.7,8.4,867.2,,
+2002,111,Winter wheat,80,8.8,703.6,,
+2002,112,Spring wheat,22.7,7.2,163.6,,
+2002,12,Total oats,18.8,7.1,133.6,,
+2002,121,Winter oats,11.8,7.8,92.1,,
+2002,122,Spring oats,7,5.9,41.5,,
+2002,13,Total barley,176,5.5,962.8,,
+2002,131,Winter barley,23.2,6.6,152.8,,
+2002,132,Spring barley,152.8,5.3,810,,
+2002,2,Beans and peas,1.7,4.5,7.5,,
+2002,3,Oilseed rape,2.2,3.1,6.7,,
+2002,4,Potatoes,15.4,33.7,518.6,,
+2002,5,Turnips,1.6,54.4,89.7,,
+2002,61,Sugar beet,31.3,41.6,1300.7,,
+2002,62,Fodder beet,4.1,60.9,249.5,,
+2002,7,Kale and field cabbage,,,,,
+2003,1,"Total wheat, oats and barley",299.9,7.2,2146.9,,
+2003,11,Total wheat,95.7,8.3,794.1,,
+2003,111,Winter wheat,60.6,8.7,526.9,,
+2003,112,Spring wheat,35.2,7.6,267.2,,
+2003,12,Total oats,21,7.4,155.1,,
+2003,121,Winter oats,9.4,8.1,75.9,,
+2003,122,Spring oats,11.6,6.8,79.2,,
+2003,13,Total barley,183.1,6.5,1197.7,,
+2003,131,Winter barley,19.8,7.7,152.8,,
+2003,132,Spring barley,163.3,6.4,1044.9,,
+2003,2,Beans and peas,2.9,4.8,13.7,,
+2003,3,Oilseed rape,2.3,3.1,7.2,,
+2003,4,Potatoes,14.2,34.5,488.2,,
+2003,5,Turnips,,,,,
+2003,61,Sugar beet,31.5,47.7,1505.2,,
+2003,62,Fodder beet,,,,,
+2003,7,Kale and field cabbage,,,,,
+2004,1,"Total wheat, oats and barley",306.4,8.2,2500.9,,
+2004,11,Total wheat,102.7,9.9,1019.2,,
+2004,111,Winter wheat,71.5,10.5,750.6,,
+2004,112,Spring wheat,31.2,8.6,268.6,,
+2004,12,Total oats,20,7.8,155.2,,
+2004,121,Winter oats,12.9,8.3,107.3,,
+2004,122,Spring oats,7,6.8,47.9,,
+2004,13,Total barley,183.7,7.3,1326.6,,
+2004,131,Winter barley,20.5,8.2,168.2,,
+2004,132,Spring barley,163.2,7.1,1158.5,,
+2004,2,Beans and peas,2.7,5.4,14.4,,
+2004,3,Oilseed rape,2.2,3,6.7,,
+2004,4,Potatoes,13.3,41.4,552.2,,
+2004,5,Turnips,,,,,
+2004,61,Sugar beet,31.1,59.8,1861.4,,
+2004,62,Fodder beet,,,,,
+2004,7,Kale and field cabbage,,,,,
+2005,1,"Total wheat, oats and barley",276.5,7,1938,,
+2005,11,Total wheat,95.2,8.4,802.7,,
+2005,111,Winter wheat,65,8.8,572,,
+2005,112,Spring wheat,30.2,7.6,229.7,,
+2005,12,Total oats,16.8,6.7,112.8,,
+2005,121,Winter oats,8.6,7.3,63.1,,
+2005,122,Spring oats,8.2,6.1,49.8,,
+2005,13,Total barley,164.4,6.2,1024.4,,
+2005,131,Winter barley,17,7.4,126,,
+2005,132,Spring barley,147.4,6.1,899.2,,
+2005,2,Beans and peas,3.7,5.1,18.9,,
+2005,3,Oilseed rape,3.7,3.8,14.2,,
+2005,4,Potatoes,11.8,34.7,409.2,,
+2005,5,Turnips,,,,,
+2005,61,Sugar beet,31,44.5,1380,,
+2005,62,Fodder beet,,,,,
+2005,7,Kale and field cabbage,,,,,
+2006,1,"Total wheat, oats and barley",274.9,7.6,2083.1,,
+2006,11,Total wheat,87.5,9.2,801,,
+2006,111,Winter wheat,59.2,9.8,580,,
+2006,112,Spring wheat,28.3,7.8,221,,
+2006,12,Total oats,20.4,7,145.2,,
+2006,121,Winter oats,9.3,8,74.2,,
+2006,122,Spring oats,11.1,6.4,71,,
+2006,13,Total barley,167,6.8,1136.9,,
+2006,131,Winter barley,15.1,7.9,119.3,,
+2006,132,Spring barley,151.9,6.7,1017.6,,
+2006,2,Beans and peas,4.3,4.7,20,,
+2006,3,Oilseed rape,5.1,3.5,17.9,,
+2006,4,Potatoes,11.5,33.4,382.9,,
+2006,5,Turnips,,,,,
+2006,61,Sugar beet,,,,,
+2006,62,Fodder beet,,,,,
+2006,7,Kale and field cabbage,,,,,
+2007,1,"Total wheat, oats and barley",273.1,7.3,1997,,
+2007,11,Total wheat,84.3,8.5,713.4,,
+2007,111,Winter wheat,64.7,8.7,562.5,,
+2007,112,Spring wheat,19.6,7.7,150.9,,
+2007,12,Total oats,21.3,7.5,159.1,,
+2007,121,Winter oats,13.5,8.1,109.3,,
+2007,122,Spring oats,7.8,6.4,49.8,,
+2007,13,Total barley,167.5,6.7,1124.5,,
+2007,131,Winter barley,18.7,7.6,142.4,,
+2007,132,Spring barley,148.8,6.6,982.2,,
+2007,2,Beans and peas,2.9,4.4,12.8,,
+2007,3,Oilseed rape,8.2,3.9,31.9,,
+2007,4,Potatoes,11.7,34,399,,
+2007,5,Turnips,,,,,
+2007,61,Sugar beet,,,,,
+2007,62,Fodder beet,,,,,
+2007,7,Kale and field cabbage,,,,,
